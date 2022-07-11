@@ -3907,3 +3907,14 @@ input, select, textarea {
 			}
 
 		}
+
+		.padre-img{
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			background-position: center center;
+		}
+		.screenFile{
+			height: 100%;
+			width: 100%;
+		}
