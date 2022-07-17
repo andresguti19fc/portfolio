@@ -3907,6 +3907,13 @@ input, select, textarea {
 			}
 
 		}
+		.textoPortada{
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+			text-align: center;
+		}
 
 		.padre-img{
 			display: flex;

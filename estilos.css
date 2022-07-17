@@ -1,0 +1,10 @@
+.textoPortada{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+/* body{
+    background: linear-gradient(rgb(118, 201, 255), rgb(247, 255, 222));
+} */
